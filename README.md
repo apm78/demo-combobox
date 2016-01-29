@@ -1,6 +1,15 @@
 # demo-combobox
 A small demo to show a typical form using data binding with a combobox
 
+## Build and Run
+After cloning the repository you build the demo with:
+
+`mvn install`
+
+Then you can deploy and run the WAR file on your server of choice or test it with:
+
+`mvn jetty:run-war`
+
 ## License
 Copyright 2015 akquinet engineering GmbH
 
